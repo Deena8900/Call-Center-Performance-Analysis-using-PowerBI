@@ -1,5 +1,6 @@
 # Call-Center-Performance-Analysis-using-PowerBI
-**#Overview**
+**Overview**
+
 This repository features dynamic Power BI dashboards designed to provide actionable insights into customer retention, call center performance, and workplace diversity and inclusion. Each dashboard leverages advanced data analytics techniques to deliver meaningful visualizations for business decision-making.
 
 1. Call Center Performance Analysis Dashboard
@@ -23,14 +24,14 @@ Conducted comprehensive analysis of organizational diversity metrics.
 Highlighted disparities in gender representation at various levels and provided actionable insights to improve inclusivity.
 Visualized diversity trends through dynamic Power BI dashboards, aiding strategic decision-making for fostering an inclusive culture.
 
-**#Tools & Techniques**:
+**Tools & Techniques**:
 
 Power BI: Created interactive dashboards with slicers, filters, and dynamic visuals.
 DAX (Data Analysis Expressions): Enhanced data accuracy and KPI calculations.
 SQL: Transformed raw data into meaningful insights.
 Statistical Analysis: Applied regression modeling and clustering to uncover trends.
 
-**#Impact**:
+**Impact**:
 
 Empowered stakeholders with actionable insights to drive business growth and operational efficiency.
 Improved customer retention and optimized call center performance.
